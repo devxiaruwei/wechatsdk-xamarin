@@ -1,6 +1,8 @@
 Xamarin.Android and Xamarin.iOS WeChat SDK binding
 =======
 
+[![Join the chat at https://gitter.im/devxiaruwei/wechatsdk-xamarin](https://badges.gitter.im/devxiaruwei/wechatsdk-xamarin.svg)](https://gitter.im/devxiaruwei/wechatsdk-xamarin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This the Xamarin.Android and Xamarin.iOS binding for Wechat SDK.
 
 Please replace the APP_ID and Keystore respectively use your own one.
